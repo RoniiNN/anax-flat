@@ -4,11 +4,6 @@ titleBreadcrumb: Home
 A website using Anax Flat - Albin
 ===============================
 
-Hi there.
-
-Nice of you to stop by.
-
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
-
-Cheers and welcome to my first Anax Flat site,  
+![Image of dirfting Motorbike](https://images.unsplash.com/photo-1509286587484-7f94a37752a6?auto=format&fit=crop&w=751&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D)
+Cheers and welcome to my first Anax Flat site,
 /*Albin*

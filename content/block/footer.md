@@ -1,4 +1,4 @@
-Copyright &copy; 2017-2022 *Albin*
+Copyright &copy; 2016-2022 *Albin*
 
 * [License](license)
 * [Cookies](cookies)
